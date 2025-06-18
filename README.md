@@ -45,7 +45,7 @@ Bayrak Yarışı, kullanıcıların dünya ülkelerine ait bayrakları eğlencel
 
 Uygulamayı ve profil özelliklerini hızlıca test etmek için, veritabanında önceden oluşturulmuş aşağıdaki test hesabını kullanarak doğrudan **giriş yapabilirsiniz.**
 
-- **E-posta:** `testt@ornek.com`
+- **E-posta:** `test@ornek.com`
 - **Şifre:** `test12345`
 
 ---
