@@ -113,10 +113,7 @@ Proje, yönetilebilirliği artırmak için modüler bir yapıda organize edilmi�
 Bu uygulama geliştirilirken aşağıdaki araçlar kullanılmıştır:
 * Flutter SDK
 * Dart SDK
-* Visual Studio Code / Android Studio
+* Android Studio
 * Firebase CLI
 * Supabase Platformu
 
-## Ekran Görüntüleri
-
-(Buraya uygulamanın Giriş, Ana Sayfa, Oyun, Profil ve Ayarlar ekranlarından alınmış ekran görüntüleri eklenecek.)
