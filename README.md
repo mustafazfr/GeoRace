@@ -24,7 +24,7 @@ Bayrak Yarışı, kullanıcıların dünya ülkelerine ait bayrakları eğlencel
     - Tüm skor geçmişini sıfırlama.
     - Hesabı tüm veritabanlarından kalıcı olarak silme.
 - **Standart ve Genişletilebilir Arayüz:**
-    - Hocanın verdiği `BasePage` şablonu temel alınarak tüm sayfalarda tutarlı bir `AppBar` ve `Drawer` menü yapısı oluşturulmuştur.
+    - `BasePage` şablonu temel alınarak tüm sayfalarda tutarlı bir `AppBar` ve `Drawer` menü yapısı oluşturulmuştur.
     - Şablon, `actions` gibi yeni özellikleri destekleyecek şekilde esnetilmiştir.
 
 ## Kullanılan Teknolojiler
