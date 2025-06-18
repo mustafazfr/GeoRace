@@ -1,4 +1,4 @@
-# Bayrak Yarışı (GeoFinalApp)
+# Bayrak Yarışı (GeoRace)
 
 ## Projenin Amacı
 
