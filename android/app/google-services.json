@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185093380460",
+    "project_id": "geofinalapp",
+    "storage_bucket": "geofinalapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185093380460:android:c1be38b3f403f754c3bb49",
+        "android_client_info": {
+          "package_name": "com.example.geofinalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE94W18o8Z9Ky1vNkXZA1W43k0ATgxBfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
